@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking and linting
+.mypy_cache/
+.ruff_cache/
+
+# Build and packaging
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# ScreenshotChecker runtime output
+logs/
+diagnostic_output/

@@ -1,0 +1,6 @@
+PySide6
+mss
+numpy
+opencv-python
+Pillow
+scikit-image
