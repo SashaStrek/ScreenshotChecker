@@ -31,3 +31,5 @@ dist/
 # ScreenshotChecker runtime output
 logs/
 diagnostic_output/
+
+if_I_am_lost.md
